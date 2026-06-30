@@ -1,12 +1,12 @@
 {
-  "name": "stat-bot",
+  "name": "Stat-Bot",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^14.x.x",
-    "sqlite3": "^5.x.x"
+    "discord.js": "^14.15.3",
+    "sqlite3": "^5.1.7"
   }
 }
